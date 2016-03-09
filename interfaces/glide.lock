@@ -1,0 +1,37 @@
+hash: 7174465c4ed02350525f4b07454f4f9d7b1f55c171e9b04adb8ed72a6786392e
+updated: 2016-03-08T16:49:56.70960497+05:00
+imports:
+- name: github.com/BurntSushi/toml
+  version: 75869ce70f3cd0f6d1473c58f4adac5941f1055a
+- name: github.com/hashicorp/hcl
+  version: 71c7409f1abba841e528a80556ed2c67671744c3
+  subpackages:
+  - hcl/ast
+  - hcl/parser
+  - hcl/token
+  - json/parser
+  - hcl/scanner
+  - hcl/strconv
+  - json/scanner
+  - json/token
+- name: github.com/kr/pretty
+  version: e6ac2fc51e89a3249e82157fa0bb7a18ef9dd5bb
+- name: github.com/kr/text
+  version: bb797dc4fb8320488f47bf11de07a733d7233e1f
+- name: github.com/magiconair/properties
+  version: 497d0afefddf378f9ffb3c89db6a326985908519
+- name: github.com/mitchellh/mapstructure
+  version: d2dd0262208475919e1a362f675cfc0e7c10e905
+- name: github.com/spf13/cast
+  version: ee7b3e0353166ab1f3a605294ac8cd2b77953778
+- name: github.com/spf13/jwalterweatherman
+  version: d00654080cddbd2b082acaa74007cb94a2b40866
+- name: github.com/spf13/pflag
+  version: 7f60f83a2c81bc3c3c0d5297f61ddfa68da9d3b7
+- name: github.com/spf13/viper
+  version: c975dc1b4eacf4ec7fdbf0873638de5d090ba323
+- name: gopkg.in/fsnotify.v1
+  version: 875cf421b32f8f1b31bd43776297876d01542279
+- name: gopkg.in/yaml.v2
+  version: a83829b6f1293c91addabc89d0571c246397bbf4
+devImports: []

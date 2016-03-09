@@ -1,0 +1,4 @@
+package: go-play/interfaces
+import:
+- package: github.com/spf13/viper
+- package: gopkg.in/fsnotify.v1
