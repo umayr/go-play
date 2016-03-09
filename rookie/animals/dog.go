@@ -1,6 +1,6 @@
 package animals
 
-import "go-play/interfaces/conf"
+import "go-play/rookie/conf"
 
 type Dog struct {
 	Name string

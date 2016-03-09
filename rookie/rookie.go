@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"go-play/interfaces/conf"
-	"go-play/interfaces/animals"
+	"go-play/rookie/conf"
+	"go-play/rookie/animals"
 )
 
 func main() {
