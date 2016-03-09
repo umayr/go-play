@@ -1,0 +1,13 @@
+# Rename this file to development.yaml
+env: development
+animals:
+  dog:
+    name: tony
+    loyal: true
+    snickers: false
+    paws: true
+  cat:
+    name: kitty
+    loyal: false
+    snickers: true
+    paws: false
